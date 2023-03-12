@@ -31,14 +31,6 @@ Clone the project
 
 
   -[git clone](https://github.com/vaibhav123-dev/Clone-of-plumgoodness.com)
-
-
-
-
-## Acknowledgements
-
- - [plum Goodness](https://plumgoodness.com/)
- - [Masai School](https://masaischool.com/)
   
 
 
@@ -54,12 +46,3 @@ Clone the project
 ![plum3](https://user-images.githubusercontent.com/86405170/153638353-714f004a-7c49-4258-b2a9-d7d624543872.PNG)
 ---
 
-
-
-## Project By:
-
-- [Mohammad Mohsin](https://github.com/mohsin19295)
-- [Vaibhav Darvekar](https://github.com/vaibhav123-dev)
-- [Avish Kumar](https://github.com/avishmonga)
-- [Dilip Kumar Jakhar](https://github.com/Dilipkumarjakhar)
-- [Domesh Sinha](https://github.com/DomeshSinha)
